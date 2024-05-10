@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  color: red;
+}
+
+img {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+form {
+  text-align: center;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
